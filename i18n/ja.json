@@ -1,0 +1,13 @@
+{
+  "bio": "<p>ブダペストに住んでいるロシアの男です。ITMO大学で習っていた、無線通信を勉強していました。後はテレコンベンダーにインテグレーションエンジニア（テクニカルサポート、テスティングなど）を勤めていました。</p><p>今、Ericssonにテストオートメーションのエンジニアを勤めています。私はラジオ装置のユニトオートテストを生み出して、編集して、デバッグしています。フレームワークはJava TestNGです。</p><p>私の他の興味はWebプログラミング（フロントやバック）や言語学や翻訳です。</p>",
+  "footerName": "Timofei Gribanov",
+  "links": "こちらも私を見つけてください:",
+  "bioBtn": "インフォ",
+  "projBtn": "プロジェクト",
+  "linksBtn": "リンク",
+  "projBasic": "<p>こちらでは私の個人的なプロジェクトのリストです。大半はASIAN KUNG-FU GENERATIONに関してプロジェクトですね。さあ、このバンドが大好きですから、バンドに関して何かを作ってたいでした。でも、これは良い練習やホビーです。</p>",
+  "projSms": "<h2>SMS Converter</h2><p>SMSの ボディー をデコードするとエンコードするJSのツールです。</p><p>GSM7とUCS2と８ビットからSMSの ボディーをデコードすること助けます。エンコードもします。</p><p>HTML、CSS、Bootstrap、JavaScript。</p>",
+  "projFragments": "<h2>akfgfragments.com</h2><p><site_anchor>akfgfragments.com</site_anchor>サイトで使う簡単なWordPressのテーマです。</p><p>PHP、HTML、CSS、Bootstrap、WordPress。</p>",
+  "projAkgDb": "<h2>Ajikan Database</h2><p>早くアジカンの曲を含む全レコードを検索するから、このサイトを作りました。</p><p>このプロジェクトはNodeJS／expressとMariaDBとのバックエンドあって、ReactとCSSとのフロントエンドがあります。</p><p>ReactJS、NodeJS、CSS。</p>",
+  "projAwp": "<h2>Ajikan Worldwide Project</h2><p>アジカンのカバープロジェクトのためにワンページサイトです。</p><p>JavaScript、HTML、CSS、Bootstrap。</p>"
+}

@@ -1,0 +1,13 @@
+{
+  "bio": "<p>A Russian guy from Budapest. I studied in ITMO University, where I read Wireless Telecommunication. Later, I worked in a telecommunication vendor as an integration engineer with a rather broad scope of responsibilities.</p><p>Currently, I'm working as a Test Automation Engineer in Ericsson. So, I mainly create, edit, run, debug, analyse unit tests for the company's radio equipment. Main fraimwork there is Java TestNG.</p><p>My other interests include web development (front and back), linguistics and literary translation.</p>",
+  "footerName": "Timofei Gribanov",
+  "links": "Find me here as well:",
+  "bioBtn": "Bio",
+  "projBtn": "Projects",
+  "linksBtn": "Links",
+  "projBasic": "<p>This is the list of some personal or hobby projects I was involved into or made. It turns out that the majority of them is somehow related to the Japanese rock band Asian Kung-Fu Generation. It's just that I'm a fan of theirs so I run a couple of projects about their music. But for me it's a great hobby and an excelent practice to hone my skills.</p>",
+  "projSms": "<h2>SMS Converter</h2><p>A JS-based tool to convert SM bodies to and from human-readable form.</p><p>It allows to convert SMS bodies from GSM7, UCS2 and 8-bit to text, vice versa.</p><p>Used technologies are HTML, CSS, Bootstrap, JavaScript.</p>",
+  "projFragments": "<h2>akfgfragments.com</h2><p>A simple theme for a WordPress-based site for <site_anchor>akfgfragments.com</site_anchor> site I own and administrate.</p><p>Used technologies are PHP, HTML, CSS, Bootstrap, WordPress.</p>",
+  "projAkgDb": "<h2>Ajikan Database</h2><p>This is a little project that allows anyone to get info about records that a certain song of a band Asian Kung-Fu Generation is on.</p><p>The project contains of backend (MariaDB database and NodeJS/express server) and frontend (ReactJS, CSS).</p><p>Used technologies are ReactJS, NodeJS, CSS.</p>",
+  "projAwp": "<h2>Ajikan Worldwide Project</h2><p>A one-page site dedicated to the song cover project of one particular music band.</p><p>Used technologies are JavaScript, HTML, CSS, Bootstrap.</p>"
+}
